@@ -1,6 +1,6 @@
 import './card.style.scss';
 
-export const Card = (props) => {
+export const Card = props => {
   return (
     <div className="card-container">
       <img
